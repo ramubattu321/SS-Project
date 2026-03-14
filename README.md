@@ -88,6 +88,15 @@ This project demonstrates:
 * Documenting accounting data in a clear and organized format
 
 ---
+## Python Script
+
+This repository includes a Python script to convert the Tally ERP 9 XML export into an Excel file.
+
+### Run the script
+
+```bash
+pip install pandas openpyxl
+python convert_xml_to_excel.py
 
 ## How to Use
 
@@ -103,5 +112,5 @@ Open the XML file to view the raw financial data or open the Excel file for a ta
 
 ## Author
 
-Graduate Student
+Ramu Battu
 California State University, Fresno
